@@ -1,2 +1,2 @@
 # WEB TESTING
-i Just Testing For beginer
+i Just Testing For beginner
